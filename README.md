@@ -17,4 +17,4 @@ DB_DATABASE=listatareas
 DB_USERNAME=root
 DB_PASSWORD=123123
 
-<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/Zosfox/listatareascrud/blob/main/Imagen%20previa%201.png</span><span>)</span>
+<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/Zosfox/listatareascrud/Imagen previa 1.png</span><span>)</span>
