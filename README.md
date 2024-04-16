@@ -1,4 +1,4 @@
-INTRUCCIONES DE INSTALACION
+INTRUCCIONES DE INSTALACIÓN
 
 Instalar los siguientes programas:
 VScode
