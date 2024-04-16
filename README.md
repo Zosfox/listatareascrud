@@ -17,4 +17,4 @@ DB_DATABASE=listatareas
 DB_USERNAME=root
 DB_PASSWORD=123123
 
-![parte delantera](Imagen1.png)
+![parte delantera](Imagen previa 1.png)
